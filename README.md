@@ -89,7 +89,7 @@ export const client = new Client({
   host: "localhost",
   port: 5433,
   user: "postgres",
-  password: "R3v@y2002",
+  password: "password",
   database: "hono",
 });
 
