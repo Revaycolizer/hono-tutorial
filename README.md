@@ -31,6 +31,12 @@ open http://localhost:3000
 
 ## Incase you want to start a new project from Scratch
 ## Proceed with the Instructions Below
+
+## Create a new Project
+```bash
+bun create hono@latest
+```
+ 
 ## To install Drizzle kit
 
 ```bash
