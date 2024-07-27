@@ -1,15 +1,36 @@
+## INCASE YOU CLONED THE REPO USE THIS SCRIPTS ONLY
+
 ## To install dependencies:
 ```sh
 bun install
+```
+## Generate Migration
+```bash
+bunx drizzle-kit generate
+```
+
+## To Run Migration:
+```bash
+bunx src/migrate.ts
+```
+## To View Database
+```bash
+drizzle-kit studio
+```
+## OR
+```bash
+drizzle-kit studio --port 3000
 ```
 
 ## To run:
 ```sh
 bun run dev
 ```
-
 open http://localhost:3000
 
+
+## Incase you want to start a new project from Scratch
+## Proceed with the Instructions Below
 ## To install Drizzle kit
 
 ```bash
