@@ -15,6 +15,55 @@
       "when": 1722085688743,
       "tag": "0001_tough_pandemic",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1722157285031,
+      "tag": "0002_fine_the_call",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1722157403516,
+      "tag": "0003_cloudy_legion",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1722157892262,
+      "tag": "0004_dark_crystal",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1722158056469,
+      "tag": "0005_nostalgic_onslaught",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1722158098605,
+      "tag": "0006_bumpy_felicia_hardy",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1722158498190,
+      "tag": "0007_dazzling_russian",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1722159264258,
+      "tag": "0008_tricky_skrulls",
+      "breakpoints": true
     }
   ]
 }
