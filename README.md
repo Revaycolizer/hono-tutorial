@@ -22,7 +22,7 @@ npm install --save  drizzle-kit
 
 ## To instal Postgres Driver
 ```bash
-npm install drizzle-orm/pg
+npm install drizzle-orm pg
 ```
 
 ```bash
