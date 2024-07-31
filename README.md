@@ -1,3 +1,37 @@
+## TO CREATE A FRESH PROJECT USING NODE
+
+## FOLLOW BELOW INSTRUCTIONS 
+```bash
+npm create hono@latest
+```
+## Install bcrypt for password hashing and comparison
+
+```bash
+npm install bcrypt
+```
+
+```bash
+npm install --save @types/bcrypt
+```
+## To Run Migration:
+```bash
+npx src/migrate.ts
+```
+## To View Database
+```bash
+npx drizzle-kit studio
+```
+## OR
+```bash
+npx drizzle-kit studio --port 3000
+```
+
+## To run:
+```sh
+npm run dev
+```
+open http://localhost:3000
+
 ## INCASE YOU CLONED THE REPO USE THIS SCRIPTS ONLY
 
 ## To install dependencies:
@@ -15,11 +49,11 @@ bunx src/migrate.ts
 ```
 ## To View Database
 ```bash
-drizzle-kit studio
+bunx drizzle-kit studio
 ```
 ## OR
 ```bash
-drizzle-kit studio --port 3000
+bunx drizzle-kit studio --port 3000
 ```
 
 ## To run:
