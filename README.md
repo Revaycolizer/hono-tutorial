@@ -46,7 +46,7 @@ export default defineConfig({
     }
 })
 ```
-## Create a migrate.ts file and add this
+## Create a migrate.ts file inside src folder and add this
 ```bash
 
 import { client, db } from "../client";
@@ -191,7 +191,7 @@ export default defineConfig({
     }
 })
 ```
-## Create a migrate.ts file and add this
+## Create a migrate.ts file inside src folder and add this
 ```bash
 
 import { client, db } from "../client";
