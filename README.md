@@ -167,7 +167,7 @@ bun add -D drizzle-kit
 
 ## To instal Postgres Driver
 ```bash
-bun add drizzle-orm/pg
+bun add drizzle-orm pg
 ```
 
 ```bash
