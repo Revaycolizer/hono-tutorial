@@ -1,4 +1,4 @@
-## TO CREATE A FRESH PROJECT USING NODE
+8## TO CREATE A FRESH PROJECT USING NODE
 
 ## FOLLOW BELOW INSTRUCTIONS 
 ```bash
@@ -103,7 +103,7 @@ bunx drizzle-kit generate
 
 ## To Run Migration:
 ```bash
-npx src/migrate.ts
+npx tax src/migrate.ts
 ```
 ## To View Database
 ```bash
@@ -133,7 +133,7 @@ bunx drizzle-kit generate
 
 ## To Run Migration:
 ```bash
-bunx src/migrate.ts
+bunx tsx src/migrate.ts
 ```
 ## To View Database
 ```bash
@@ -248,7 +248,7 @@ bunx drizzle-kit generate
 
 ## To Run Migration:
 ```bash
-bunx src/migrate.ts
+bunx tax src/migrate.ts
 ```
 ## To View Database
 ```bash
